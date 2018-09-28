@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 @EnableAutoConfiguration
 public class SampleController {
     @Value("${environment.message}")
-    private String message;
+    private String message
 
     @RequestMapping("/")
     @ResponseBody
