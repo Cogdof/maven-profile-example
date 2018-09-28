@@ -7,3 +7,4 @@ download this project and review pom.xml and project folder structures.
 in browser check the url "http://localhost:8080"
 
 새롭게 수정
+수정 2
